@@ -4,7 +4,18 @@
 - 💞️ I’m looking to collaborate on UNKOWN.
 - 📫 How to reach me => You can't.
 
-<!---
-BenjaminKeter/BenjaminKeter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+You can clone some cyber weapon here!
+
+* include programming languages:
+- Python 
+- Shell-Scripting 
+- Powershell
+- C: Not in 2022.
+- C++ Not in 2022.
+
+* Web Application tools will be written in:
+- JavaScript
+- PHP 
+
+
+
